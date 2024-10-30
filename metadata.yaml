@@ -5,6 +5,9 @@ contributor:
     agent_name: Klepper, Max
     gutenberg_agent_id: '57572'
     url: http://www.gutenberg.org/2009/agents/57572
+covers:
+- cover_type: archival
+  image_path: 74593-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edward_Stratemeyer
     - https://www.gutenberg.org/ebooks/author/55530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74593#The-baseball-boys-of-Lakeport-b-The-winning-run
 gutenberg_issued: '2024-10-16'
 gutenberg_type: Text
 identifiers:
